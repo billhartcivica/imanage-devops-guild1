@@ -17,4 +17,7 @@ https://docs.docker.com/install/linux/docker-ce/centos/
 For Macintosh users, see here:
 https://docs.docker.com/docker-for-mac/install/
 
+You will also need to download 'docker-compose'. Installation
+instructions and links are here: https://docs.docker.com/compose/install/
+
 
