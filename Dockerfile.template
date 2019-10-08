@@ -1,0 +1,3 @@
+FROM nginx:latest
+ENV VERSION=1
+RUN echo "Test Bill Hart version $NGINXVER Nginx" > /usr/share/nginx/html/index.html
