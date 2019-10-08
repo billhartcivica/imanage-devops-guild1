@@ -1,0 +1,7 @@
+version: '2'
+
+services:
+  nginx:
+    image: 'nginxtest:2'
+    ports:
+      - '82:80'

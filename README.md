@@ -11,10 +11,10 @@ https://docs.docker.com/docker-for-windows/install/
 For Ubuntu Linux users, refer to this:
 https://docs.docker.com/install/linux/docker-ce/ubuntu/
 
-For Centos or RedHat Linux, see below:
+For Centos or RedHat Linux, see here:
 https://docs.docker.com/install/linux/docker-ce/centos/
 
-For Macintosh users, see below:
+For Macintosh users, see here:
 https://docs.docker.com/docker-for-mac/install/
 
 
